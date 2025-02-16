@@ -1,0 +1,25 @@
+# Requirements for Election Data Analysis Project
+
+## Python Libraries
+
+- **pandas**  
+  Data manipulation and analysis, including reading and processing datasets.
+
+- **numpy**  
+  Numerical computing and efficient array operations for large datasets.
+
+- **matplotlib**  
+  Comprehensive data visualization library for creating static, animated, and interactive plots.
+
+- **seaborn**  
+  Statistical data visualization built on top of Matplotlib, offering advanced plotting functions.
+
+## Installation
+To install the required libraries, run the following command:
+
+```bash
+pip install -r requirements.txt
+```
+
+Ensure that you have Python installed before running the above command.
+
